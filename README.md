@@ -22,6 +22,9 @@ Deep Learning Seminar
 [발표자료](https://drive.google.com/file/d/1E9E3vpC0t8GhvdzWZbZXIf4CdUjEGXvk/view?usp=sharing)
 [노션링크](https://lavender-grenadilla-d72.notion.site/ArtFlow-3e99670892b64dc78e3f083fb03b162c?pvs=4)
 
+## Glow
+[노션링크](https://lavender-grenadilla-d72.notion.site/Glow-05a0c7fdbe474eff852172c3e7d38137?pvs=4)
+
 ## OCR survey 리뷰
 [노션링크](https://lavender-grenadilla-d72.notion.site/A-Survey-of-Deep-Learning-Approaches-for-OCR-and-Document-Understanding-c0c12798e97447f988253c72fee97c22?pvs=4)
 
